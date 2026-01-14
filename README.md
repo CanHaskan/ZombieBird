@@ -1,5 +1,9 @@
 # ZombieBird
 
+![Gameplay Screenshot](assets/gameplay.png)
+
+![Main Menu Screenshot](assets/mainmenu.png)
+
 ZombieBird is a Flappy Bird–style arcade game with a zombie theme, developed using Unity.  
 The player controls a zombie and tries to survive as long as possible by avoiding obstacles.
 
